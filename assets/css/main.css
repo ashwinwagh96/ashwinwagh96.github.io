@@ -1292,6 +1292,7 @@ dl {
 
 /* Actions */
 ul.actions {
+  scroll-behavior: smooth;
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
