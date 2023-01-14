@@ -25,4 +25,4 @@ function typeOutTitle(title) {
 }
 
 // Call the typeOutTitle function with your desired website title
-typeOutTitle('> Portfolio by Ashwin Wagh');
+typeOutTitle('Portfolio by Ashwin Wagh');
